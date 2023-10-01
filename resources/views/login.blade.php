@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="row mt-5">
+    <div class="row justify-content-center mt-5">
         <div class="col-lg-4">
             <div class="card">
                 <div class="card-header">
